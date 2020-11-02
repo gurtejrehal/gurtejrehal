@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtejrehal&label=Profile%20views&color=0e75b6&style=flat" alt="gurtejrehal" /> </p>
 
-- 🔭 I’m currently working on [Falcon - AI Data Crawler](https://github.com/gurtejrehal/FALCON---AI-Data-Crawler)
+- 🔭 I’m currently working on [Falcon - AI Data Crawler](https://github.com/gurtejrehal/FALCON---AI-Data-Crawler);
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Pytorch**;
 
-- 💬 Ask me about **Hackathons and Development**
+- 💬 Ask me about **Hackathons and Development**;
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kB1Cc4uyZFULMes3gvjoKvn_yZnRq3J8/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1kB1Cc4uyZFULMes3gvjoKvn_yZnRq3J8/view?usp=sharing);
 
 - ⚡ Fun fact **I can solve a rubik cube under 20s 😉;**
 
