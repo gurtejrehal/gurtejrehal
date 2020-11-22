@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtejrehal&label=Profile%20views&color=0e75b6&style=flat" alt="gurtejrehal" /> </p>
 
-- 🔭 I’m currently working on [Falcon - AI Data Crawler](https://github.com/gurtejrehal/FALCON---AI-Data-Crawler);
+- 🔭 I’m currently working on [Tweelp](https://github.com/gurtejrehal/Tweelp);
 
 - 🌱 I’m currently learning **Pytorch**;
 
