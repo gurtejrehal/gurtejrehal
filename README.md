@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pytorch**;
 
-- 💬 Ask me about **Hackathons and Development**;
+- 💬 Ask me about **Problem Solving, Hackathons and Development**;
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1kB1Cc4uyZFULMes3gvjoKvn_yZnRq3J8/view?usp=sharing);
 
