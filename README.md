@@ -25,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurtejrehal&show_icons=true&locale=en&layout=compact" alt="gurtejrehal" /></p>
  
+[Gurtej_Rehal Resume](https://github.com/gurtejrehal/gurtejrehal/files/7602144/Gurtej_CV_Main.pdf)
