@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://twitter.com/gurtej_rehal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gurtej_rehal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gurtej-singh-rehal-726a81129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gurtej-singh-rehal-726a81129" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gurtejrehal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="gurtejrehal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
