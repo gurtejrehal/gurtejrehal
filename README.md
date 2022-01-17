@@ -12,6 +12,7 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1ELCgL4L7MUs53R5yP7Iheu8uquzr1jvF/view?usp=sharing);
 
 - ⚡ Fun fact **I can solve a rubik cube under 20s 😉;**
+- Resume: [here](https://github.com/gurtejrehal/gurtejrehal/files/7880857/Gurtej_Singh_Rehal_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +25,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurtejrehal&show_icons=true&locale=en&layout=compact" alt="gurtejrehal" /></p>
  
-[Gurtej_Rehal Resume](https://github.com/gurtejrehal/gurtejrehal/files/7602144/Gurtej_CV_Main.pdf)
+
+
