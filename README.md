@@ -3,16 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtejrehal&label=Profile%20views&color=0e75b6&style=flat" alt="gurtejrehal" /> </p>
 
-- 🔭 I’m currently working on [Konnex - AI Assistant (Chrome Extesnion)](https://github.com/gurtejrehal/konnex);
-
-- 🌱 I’m currently learning **Pytorch**;
+- 🔭 I’m currently working on Cloud services, Code Scanners;
 
 - 💬 Ask me about **Problem Solving, Hackathons and Development**;
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ELCgL4L7MUs53R5yP7Iheu8uquzr1jvF/view?usp=sharing);
+- 📄 Resume [here](https://drive.google.com/file/d/1ELCgL4L7MUs53R5yP7Iheu8uquzr1jvF/view?usp=sharing);
 
 - ⚡ Fun fact **I can solve a rubik cube under 20s 😉;**
-- Resume: [here](https://github.com/gurtejrehal/gurtejrehal/files/7880857/Gurtej_Singh_Rehal_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
