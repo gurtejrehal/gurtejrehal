@@ -11,12 +11,6 @@
 
 - ⚡ Fun fact **I can solve a rubik cube under 20s 😉;**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gurtej_rehal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gurtej_rehal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gurtej-singh-rehal-726a81129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gurtej-singh-rehal-726a81129" height="30" width="40" /></a>
-</p>
-
 #### Connect With Me
 
 <p left="center">
@@ -27,7 +21,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 <a href="mailto:gurtejrehal@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" height=25>
 </a>
 </p>
 
