@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Problem Solving, Hackathons and Development**;
 
-- 📄 Resume [here](https://drive.google.com/file/d/1ELCgL4L7MUs53R5yP7Iheu8uquzr1jvF/view?usp=sharing);
+- 📄 Resume [here](https://drive.google.com/file/d/1yRldMDfQ4IPeXlhz4n8W_ohK0EzsvT14/view?usp=sharing);
 
 - ⚡ Fun fact **I can solve a rubik cube under 20s 😉;**
 
