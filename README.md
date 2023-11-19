@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gurtej Singh Rehal;</h1>
-<h3 align="center">SIH 2020 Winner | Full stack developer | Data Science Enthusiast | Quantum Physics reader!</h3>
+<h3 align="center">Software Engineer | Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtejrehal&label=Profile%20views&color=0e75b6&style=flat" alt="gurtejrehal" /> </p>
 
-- 🔭 I’m currently working on Cloud services, Code Scanners;
+- 🔭 I’m currently working on Cloud & Code Scanners;
 
 - 💬 Ask me about **Problem Solving, Hackathons and Development**;
 
