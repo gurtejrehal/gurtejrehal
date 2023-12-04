@@ -14,10 +14,10 @@
 #### Connect With Me
 
 <p left="center">
-<a href="https://twitter.com/gurtej_rehal">
+<a href="https://twitter.com/gurtej_rehal" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="[https://www.linkedin.com/in/sudiptob2/](https://www.linkedin.com/in/gurtej-singh-rehal-726a81129/)">
+<a href="https://www.linkedin.com/in/gurtejrehal/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
 </p>
