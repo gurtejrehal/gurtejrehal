@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gurtej;</h1>
+<h1 align="center">
+  <samp>&gt; Hi 👋, I'm Gurtej (a.k.a Garry);</samp>
+</h1>
 <h3 align="center">Software Engineer | Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtejrehal&label=Profile%20views&color=0e75b6&style=flat" alt="gurtejrehal" /> </p>
