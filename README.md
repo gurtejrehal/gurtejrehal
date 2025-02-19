@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurtejrehal&label=Profile%20views&color=0e75b6&style=flat" alt="gurtejrehal" /> </p>
 
-- 🔭 I’m currently working on Cloud & Code Scanners;
-
-- 💬 Ask me about **Problem Solving, Hackathons and Development**;
-
-- 📄 Resume [here](https://gurtej.tiiny.site/);
+- 💬 Ask me about **Problem Solving, Hackathons or building projects**;
 
 - ⚡ Fun fact **I can solve a rubik cube under 20s 😉;**
 
